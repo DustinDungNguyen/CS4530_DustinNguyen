@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Main screen -->
+    <string name="pick_a_button">Pick a Location</string>
+    <string name="btn_label_one">Salt Lake City</string>
+    <string name="btn_label_two">San Francisco</string>
+    <string name="btn_label_three">Ho Chi Minh City</string>
+    <string name="btn_label_four">Ha Noi City</string>
+    <string name="btn_label_five">Margaret Barber</string>
+
+    <!-- Detail screen -->
+    <string name="back">Back</string>
+    <string name="placeholder">…</string>
+</resources>
