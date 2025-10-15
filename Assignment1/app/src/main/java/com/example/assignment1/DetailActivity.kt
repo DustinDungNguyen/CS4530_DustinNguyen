@@ -6,7 +6,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
 /**
- * Assignment 1 — Two-Activity App
+ * Assignment 1 — Two-Activity App1
  *
  * Student: Dustin Nguyen (u1494912)
  * Course: CS 4530 — Mobile App Development
