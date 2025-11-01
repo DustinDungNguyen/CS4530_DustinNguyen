@@ -1,6 +1,6 @@
 // File: FunFactEntity.kt
 // Author: Dustin Nguyen — CS 4530
-// Description: Room entity representing a single fun fact stored locally.
+// Description: Room entity representing a single fun fact stored locally..
 package com.example.funfacts.data.local
 
 import androidx.room.Entity
