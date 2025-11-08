@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TextSummarizerDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TextSummarizerDemo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

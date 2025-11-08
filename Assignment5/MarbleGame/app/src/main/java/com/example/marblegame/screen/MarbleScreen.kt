@@ -1,6 +1,6 @@
 // MarbleGame — MarbleScreen.kt
 // Purpose: Compose UI that renders the playfield and marble, reads bounds,
-//          and offsets the marble according to ViewModel state.
+//          and offsets the marble according to ViewModel state..
 package com.example.marblegame.screen
 
 import android.annotation.SuppressLint
